@@ -11,6 +11,11 @@ public class OOPTest{
         System.out.println(p1.name);//直接修改对象的属性
         System.out.println(p1.isMale);
         p1.talk("中文");//接受参数的操作
+        Person p3=p1;//浅拷贝，不信看下面
+        p3.age=10;
+        System.out.println(p1.age);
+        System.out.println(p3.age);//p3.age和p1.age是一个东西
+        System.out.println(p1.get_weight());
         
     }
 }
@@ -33,6 +38,9 @@ class Person{
     }
     public  void talk(String language) {
         System.out.println("这个人说"+language);
+    }
+    public  int get_weight() {//带返回值的方法（必须改前面的void为返回的数据类型，必须要有return）
+            return weight;
         
     }
 }
