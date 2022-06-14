@@ -33,6 +33,7 @@ public class OrderTest {
                 this();//做空参的操作
                         //再做其他操作
         }
+
         public Person(String name,String name2){
             this(name);//调用了public Person(String name){     这个构造器
                         //再写其他的
@@ -41,7 +42,9 @@ public class OrderTest {
 
 
         public void say(){
+
             System.out.println("hello");
+            return;
         }
 
 
