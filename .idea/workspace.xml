@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8902166f-7b77-42ae-ad62-853eea220466" name="变更" comment="" />
+    <list default="true" id="8902166f-7b77-42ae-ad62-853eea220466" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/dau11/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/com/atguigu/java/PackageImportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/out/production/day10/com/atguigu/java1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/day10/out/production/day10/com/atguigu/java1/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/src/com/atguigu/java/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10/src/com/atguigu/java/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/src/com/atguigu/java1/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10/src/com/atguigu/java1/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook" beforeDir="false" afterPath="$PROJECT_DIR$/notebook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/notebook0.md" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/notebook0.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2AWY2t6L7SHMk5ShCQBSRaPxOsN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +24,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -29,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655126605703</updated>
       <workItem from="1655126607236" duration="23000" />
+      <workItem from="1655219401782" duration="40000" />
     </task>
     <servers />
   </component>
