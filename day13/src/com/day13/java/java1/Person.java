@@ -14,6 +14,14 @@ public class Person {
         this.sex = sex;
     }
 
+    @Override
+    public String toString() {
+        return "Person{" +
+                "age=" + age +
+                ", name='" + name + '\'' +
+                ", sex=" + sex +
+                '}';
+    }
 
     void talk(){
         System.out.println("Peopke talk");
